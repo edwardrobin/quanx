@@ -1,1 +1,3 @@
+# Syntax: HOST, HOST-KEYWORD, HOST-SUFFIX
 HOST,sub-store.vercel.app
+HOST-SUFFIX, letstalkvirtual.com
